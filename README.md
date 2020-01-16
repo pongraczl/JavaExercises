@@ -1,4 +1,5 @@
-#Java Exercises
+# Java Exercises
+
 Lesson selection
 ![Lesson selection](./docs/screenshot_lessons.png)
 Answering an exercise
